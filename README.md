@@ -1,7 +1,3 @@
-# Dudest00.github.io
-Trabalho-Faculdade
-
-
 <!DOCTYPE html>
 <html lang="pt-br">
 	<head>
